@@ -21,8 +21,8 @@ A full end-to-end healthcare analytics case study using CDC/NCHS data.
 ✔ Operational insights
 
 📄 View the project:
-👉 (https://github.com/clinicalanalyst-afk/ed-utilization-case-study)
-👉 Add your PDF link here
+👉 https://github.com/clinicalanalyst-afk/ed-utilization-case-study
+👉 https://github.com/clinicalanalyst-afk/ed-utilization-case-study/blob/main/Emergency%20Department%20Utilization%20Patterns_%20A%20Data%20Analysis%20Case%20Study.pdf
 
 🛠️ Tools & Skills
 R, tidyverse, ggplot2, janitor
