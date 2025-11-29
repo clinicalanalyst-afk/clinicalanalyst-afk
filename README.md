@@ -21,7 +21,7 @@ A full end-to-end healthcare analytics case study using CDC/NCHS data.
 ✔ Operational insights
 
 📄 View the project:
-👉 Add your repo link here
+👉 (https://github.com/clinicalanalyst-afk/ed-utilization-case-study)
 👉 Add your PDF link here
 
 🛠️ Tools & Skills
@@ -51,4 +51,4 @@ My ultimate goal: a high-impact, remote-friendly analytics role that supports my
 
 🤝 Let’s Connect!
 LinkedIn: www.linkedin.com/in/mutsumi-c-a6583838b
-GitHub Portfolio Projects: link to your repos
+GitHub Portfolio Projects: https://github.com/clinicalanalyst-afk/ed-utilization-case-study
